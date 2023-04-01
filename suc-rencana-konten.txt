@@ -2,6 +2,7 @@ RENCANA KONTEN SUC
 - javascript
   *ES6
   *FRAMEWORK JAVASCRIPT
+- struktur data dasar
 - php frameworks
 - interviw
 - vlogs
