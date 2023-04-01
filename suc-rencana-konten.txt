@@ -1,5 +1,7 @@
 RENCANA KONTEN SUC
 - javascript
+  *ES6
+  *FRAMEWORK JAVASCRIPT
 - php frameworks
 - interviw
 - vlogs
