@@ -3,6 +3,7 @@ RENCANA KONTEN SUC
   *ES6
   *FRAMEWORK JAVASCRIPT
    >vue
+   >react
 - struktur data dasar
 - php frameworks
   >laravel
